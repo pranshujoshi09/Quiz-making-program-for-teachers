@@ -1,1 +1,1 @@
-# Quiz-making-app-for-teachers
+# Quiz-making-program-for-teachers
